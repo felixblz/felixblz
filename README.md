@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Felix
-- 🌱 I’m currently studiying Computer Sciense at the DHBW in Stuttgart
+- 🌱 I’m currently studiying Computer science at the DHBW in Stuttgart
 <!--- 👀 I’m interested in ...
 
 - 💞️ I’m looking to collaborate on ...
